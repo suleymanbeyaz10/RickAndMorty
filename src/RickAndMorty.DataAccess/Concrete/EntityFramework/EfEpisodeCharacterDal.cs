@@ -9,6 +9,6 @@ using System.Threading.Tasks;
 
 namespace RickAndMorty.DataAccess.Concrete.EntityFramework;
 
-public class EfEpisodeDal : EfEntityRepositoryBase<Episode, RickAndMortyContext>, IEpisodeDal
+public class EfEpisodeCharacterDal : EfEntityRepositoryBase<EpisodeCharacter, RickAndMortyContext>, IEpisodeCharacterDal
 {
 }
