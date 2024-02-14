@@ -11,7 +11,7 @@ Bu bölüm, projeyi yerel geliştirme ortamınızda nasıl kurup çalıştıraca
 
 Projeyi çalıştırmak için aşağıdaki araçların kurulu olması gerekmektedir:
 
-- .NET Core 3.1 SDK (veya daha yeni)
+- .NET Core 8.0 SDK (veya daha yeni)
 - Git
 
 ### Kurulum
@@ -43,14 +43,6 @@ Characters sayfasında, Rick and Morty evrenindeki tüm karakterler listelenir. 
 
 Episodes sayfasında, dizinin tüm bölümleri listelenir. Kullanıcılar bölüm adı, yayın tarihi ve bölüm numarası gibi detaylara erişebilir.
 
-## Katkıda Bulunma
 
-Projeye katkıda bulunmak isteyenler için adımlar:
-
-1. Projeyi forklayın.
-2. Feature branch'i oluşturun (`git checkout -b feature/AmazingFeature`).
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`).
-4. Branch'inize Push yapın (`git push origin feature/AmazingFeature`).
-5. Yeni bir Pull Request oluşturun.
 
 ## Teşekkürler
